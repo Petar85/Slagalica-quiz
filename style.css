@@ -1,0 +1,8 @@
+body {
+    background-image: url("assets/5029521_slagalica.jpg");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+}
+.navbar-container {
+    max-width: none;
+}

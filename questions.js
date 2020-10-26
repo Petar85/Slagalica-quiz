@@ -1,27 +1,27 @@
 const questions = [
     {
-        question: 'What is the capital of US?',
-        answers: ['Los Angeles', 'Washington D.C.', 'New York', 'Seattle'],
-        correct: 'Washington D.C.'
+        title: 'What is the capital of US?',
+        choices: ['Los Angeles', 'Washington D.C.', 'New York', 'Seattle'],
+        answer: 'Washington D.C.'
     },
     {
-        question: 'What is the capital of Canada?',
-        answers: ['Ottawa', 'Montreal', 'Victoria', 'Quebec'],
-        correct: 'Ottawa'
+        title: 'What is the capital of Canada?',
+        choices: ['Ottawa', 'Montreal', 'Victoria', 'Quebec'],
+        answer: 'Ottawa'
     },
     {
-        question: 'What is the capital of Germany?',
-        answers: ['Berlin', 'Bon', 'Dortmund', 'Hamburgh'],
-        correct: 'Berlin'
+        title: 'What is the capital of Germany?',
+        choices: ['Berlin', 'Bon', 'Dortmund', 'Hamburgh'],
+        answer: 'Berlin'
     },
     {
-        question: 'What is the capital of France?',
-        answers: ['Paris', 'Strasbourg', 'Tolouse', 'Nantes'],
-        correct: 'Paris'
+        title: 'What is the capital of France?',
+        choices: ['Paris', 'Strasbourg', 'Tolouse', 'Nantes'],
+        answer: 'Paris'
     },
     {
-        question: 'What is the capital of Italy?',
-        answers: ['Rome', 'Naples', 'Torino', 'Genoa'],
-        correct: 'Rome'
+        title: 'What is the capital of Italy?',
+        choices: ['Rome', 'Naples', 'Torino', 'Genoa'],
+        answer: 'Rome'
     }
 ];
